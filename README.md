@@ -1,3 +1,11 @@
+With this project, I used MUI Component Library.
+What I did was: 
+  - Changed the CSS colors of the Theme
+  - added in my Image to see how it works
+  - and looked over how to hook data points to the components from a json or API
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
